@@ -24,7 +24,7 @@ baseurl: /amillionpieces
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://user.qzone.qq.com/483906623/photo/V52AldVv2OhFrm0g98Vp1lepk62AwdEI?p_skey=-0YY5teA5EhlqEFQ-9AIOLYXCWDNymE4ZIL0pt*Fp8Y_&_t_=0.7599085033412254
+avatar: 
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
